@@ -1,0 +1,244 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento do site",
+      "type": "income",
+      "category": "Venda",
+      "price": 15000,
+      "createdAt": "2023-10-18T14:32:53.273Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-10-18T14:45:53.273Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-10-18T15:57:45.669Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Venda",
+      "price": 2500,
+      "type": "income",
+      "createdAt": "2023-10-18T17:40:21.337Z",
+      "id": 4
+    },
+    {
+      "description": "Biscoito",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-10-18T17:59:05.068Z",
+      "id": 5
+    },
+    {
+      "description": "Maçã",
+      "category": "Alimentação",
+      "price": 1,
+      "type": "outcome",
+      "createdAt": "2023-10-18T19:22:55.487Z",
+      "id": 6
+    },
+    {
+      "description": "Banana",
+      "category": "Alimentação",
+      "price": 2,
+      "type": "outcome",
+      "createdAt": "2023-10-18T19:24:19.761Z",
+      "id": 7
+    },
+    {
+      "description": "Almoço",
+      "category": "Alimentação",
+      "price": 120,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:20:54.560Z",
+      "id": 8
+    },
+    {
+      "description": "PlayStation",
+      "category": "Diversão",
+      "price": 4000,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:21:27.315Z",
+      "id": 9
+    },
+    {
+      "description": "Desenvolvimento de aplicação desktop",
+      "category": "Venda",
+      "price": 14000,
+      "type": "income",
+      "createdAt": "2023-10-18T23:22:11.749Z",
+      "id": 10
+    },
+    {
+      "description": "Macarrão",
+      "category": "Alimentação",
+      "price": 8,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:22:49.126Z",
+      "id": 11
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 12
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 13
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 14
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 15
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 16
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 17
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 18
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 19
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 20
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 21
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 22
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 23
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 24
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 25
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 1500,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 26
+    },
+    {
+      "description": "Café",
+      "category": "Compras",
+      "price": 12,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 27
+    },
+    {
+      "description": "Desenvolvimento de LP",
+      "category": "Venda",
+      "price": 500,
+      "type": "income",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 28
+    },
+    {
+      "description": "Laptop",
+      "category": "Venda",
+      "price": 2300,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 29
+    },
+    {
+      "description": "Brinquedo",
+      "category": "Compras",
+      "price": 120,
+      "type": "outcome",
+      "createdAt": "2023-10-18T23:23:13.159Z",
+      "id": 30
+    }
+  ]
+}
