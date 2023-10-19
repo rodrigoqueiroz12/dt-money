@@ -48,8 +48,10 @@ To get a local copy up and running follow these simple example steps.
 3. Run the project
    ```sh
    npm run dev
+   npm run dev:server
    // or
    pnpm run dev
+   pnpm run dev:server
    ```
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
